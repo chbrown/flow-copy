@@ -8,10 +8,11 @@
     "fixed",
     "absolute"
   ],
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/chbrown/flow-copy",
   "repository": "git://github.com/chbrown/flow-copy.git",
   "bugs": "https://github.com/chbrown/flow-copy/issues",
   "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {}
 }
