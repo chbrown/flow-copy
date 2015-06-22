@@ -1,0 +1,17 @@
+{
+  "name": "flow-copy",
+  "description": "DOM mechanism for creating an in-flow placeholder for an out-of-flow element",
+  "keywords": [
+    "browser",
+    "dom",
+    "position",
+    "fixed",
+    "absolute"
+  ],
+  "version": "0.0.0",
+  "homepage": "https://github.com/chbrown/flow-copy",
+  "repository": "git://github.com/chbrown/flow-copy.git",
+  "bugs": "https://github.com/chbrown/flow-copy/issues",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT"
+}
