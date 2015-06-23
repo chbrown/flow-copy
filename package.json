@@ -13,6 +13,5 @@
   "repository": "git://github.com/chbrown/flow-copy.git",
   "bugs": "https://github.com/chbrown/flow-copy/issues",
   "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
-  "license": "MIT",
-  "scripts": {}
+  "license": "MIT"
 }

@@ -18,6 +18,7 @@ function FlowCopy(original) {
       });
     }
   }).observe(original, {
+    childList: true,
     subtree: true,
   });
 }
