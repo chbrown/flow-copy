@@ -23,6 +23,8 @@ function FlowCopy(original) {
   });
 }
 
+exports.FlowCopy = FlowCopy;
+
 if (typeof angular !== 'undefined') {
   /** This directive is intended to be used with a `position: absolute` or
   `position: fixed` element, so that even when it drops out of flow, an empty
