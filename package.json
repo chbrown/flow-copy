@@ -6,7 +6,8 @@
     "dom",
     "position",
     "fixed",
-    "absolute"
+    "absolute",
+    "angular"
   ],
   "version": "0.1.2",
   "homepage": "https://github.com/chbrown/flow-copy",
